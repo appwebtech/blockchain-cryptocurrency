@@ -1,4 +1,4 @@
-Today I'll briefly go through how to query data of an individual crypto address using exploiting the Infura API. I won't go in depth about nodes and sharding but the process is  quite intuitive for those with prior blockchain experience. 
+Today I'll briefly go through how to query data of an individual crypto address exposing the Infura API. I won't go in depth about nodes and sharding but the process is  quite intuitive for those with prior blockchain experience. 
 
 Firstly I'll change my ENV variable & API key to connect to Ethereum so I'll have to mask one of my private keys that I've used. I made commit's earlier and my .yml file in config wasn't ignored by git which is not an issue as I'll toss it no sooner do I complete this app. My global system settings of Github were messed up during the GDPR switch and that has had ramifications on how I monitor cryptos; their volumes, spoofing and especially automated bots.  
 
