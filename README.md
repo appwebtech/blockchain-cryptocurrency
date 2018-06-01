@@ -6,7 +6,8 @@ Anyways you can see the last blockNumber on the terminal references to the one o
 
 ![Blocknumber](https://user-images.githubusercontent.com/13242902/40787248-10f136e8-64e5-11e8-9f64-8f5e242bf2b0.png)
 <hr>
-![Etherscan](https://user-images.githubusercontent.com/13242902/40787324-3c206f78-64e5-11e8-9214-6a2e426422d4.png)
+
+![2](https://user-images.githubusercontent.com/13242902/40862880-cc397658-65e5-11e8-90fe-2afb7480a0cb.png)
 <hr>
 
 Now that I have a green light on my connection, I'll load up a list of smart contracts to interact with and help me keep track of different tokens in a wallet. 
